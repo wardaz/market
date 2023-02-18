@@ -1,0 +1,31 @@
+.nft{
+    background: -webkit-linear-gradient(45deg, #1AA7EC, #797EF6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.herotext2{
+    font-size: 48px !important;
+}
+.herotext2{
+    font-size: 18px !important;
+    color: gray !important;
+}
+.herobtn1{
+    background: linear-gradient(to right, #1aa7ec 0%, #797ef6 100%);
+    color: white;
+    padding: 6px 22px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+}
+.herobtn2{
+    background-color: aquamarine;
+    color: #1AA7EC;
+    padding: 6px 26px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+}
+.carousel-indicators{
+    display: none;
+}
